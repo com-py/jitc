@@ -1,0 +1,7 @@
+ipympl
+matplotlib
+numba
+numpy
+scipy
+sympy
+vpython
